@@ -1,0 +1,2 @@
+﻿Provides a simple easy to understand interface over a large and sophisticated body of code
+- e.g. write a class that contains functions that are frequently used and have that class deal with the subsystems (sophisticated body of code)
